@@ -1,0 +1,9 @@
+@import './gen/main.css';
+
+
+#banner {
+    overflow: hidden;
+    height: 330px;
+    background: url(../img/mbg_null.png) no-repeat center;
+    background-size: cover;
+}
